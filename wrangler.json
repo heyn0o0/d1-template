@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0b841f41-bd7b-4231-80ae-aa313c3115ab",
+			"database_name": "heynusic"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
